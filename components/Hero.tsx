@@ -36,7 +36,7 @@ const Hero = () => {
       <div className="my-10 z-10 flex justify-center">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center ">
           <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80 justify-center">
-            Let's dive into
+            Dive into
           </h2>
             <TextGenerateEffect className="text-center text-white text-[20px] md:text-4xl lg:text-5xl flex justify-center" words={`Uploaded life of`}/>
             <TextGenerateEffect className="text-purple text-[40px] md:text-5xl lg:text-6xl flex justify-center text-center" words={`KUNAL KHAIRNAR`}/>
