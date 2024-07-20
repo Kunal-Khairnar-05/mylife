@@ -9,7 +9,7 @@ export function Projects() {
     <section id="projects">
       <div className="max-w-5xl mx-auto px-8 -mt-20">
         <LampContainer className="-mt-20 bg-gradient-to-br from-slate-300 to-slate-500 py-4 bg-clip-text text-center text-4xl font-medium tracking-tight text-blue-200 md:text-5xl ease-in ">
-          Projects I've Done...
+          Projects I have Done...
         </LampContainer>
 
         <div className="-mt-64">
